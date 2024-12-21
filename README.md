@@ -8,6 +8,8 @@ The **Token Cost Calculator App** allows users to calculate the number of tokens
 
 The app tokenizes the input text, removes common stop words, and computes the token count and total cost based on a user-defined token price.
 
+You can access the deployed app here: [Token Cost Calculator App](https://preprod-mini-hack.onrender.com)
+
 ---
 
 ## Features
@@ -38,3 +40,8 @@ To run this app locally, you need **Python** and **Streamlit** installed.
 2. Install the required dependencies using the following command:
    ```bash
    pip install streamlit
+
+### Key Changes:
+- To run the file use the following command:
+  ```bash
+  streamlit run app.py
